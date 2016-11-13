@@ -13,3 +13,8 @@
 
 ---------------------------
 
+11月份 workshop - 台北 - Release the Kraken ? Bring ceph to live workshop
+* 相關資料於 20161112/
+
+---------------------------
+
