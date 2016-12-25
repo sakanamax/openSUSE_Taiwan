@@ -1,10 +1,13 @@
-9月份 workshop - 新竹 - Docker and openSUSE workshop 101
-* 相關資料於20160913/
 
 ---------------------------
 
-9月份 workshop - 台北 - OBS workshop 101
-* 相關資料於 20160924/
+12月份 Leap 42.2 release party - 台北
+* 相關資料於 20161217/
+
+---------------------------
+
+11月份 workshop - 台北 - Release the Kraken ? Bring ceph to live workshop
+* 相關資料於 20161112/
 
 ---------------------------
 
@@ -13,8 +16,14 @@
 
 ---------------------------
 
-11月份 workshop - 台北 - Release the Kraken ? Bring ceph to live workshop
-* 相關資料於 20161112/
+9月份 workshop - 台北 - OBS workshop 101
+* 相關資料於 20160924/
 
 ---------------------------
+
+9月份 workshop - 新竹 - Docker and openSUSE workshop 101
+* 相關資料於20160913/
+
+---------------------------
+
 
