@@ -1,3 +1,18 @@
+﻿8月份 Release Party - 台北　- openSUSE Leap 42.3 Release Party
+* 相關資料於 20170812/
+
+---------------------------
+
+7月份 workshop - 台北　- Performance analysis for Storage Back-end
+* 相關資料於 20170729/
+
+---------------------------
+
+6月份 workshop - 台北　- Docker 入門介紹
+* 相關資料於 20170624/
+
+---------------------------
+
 5月份 workshop - 台北　- ansible workshop with openSUSE 101
 * 相關資料於 20170528/
 
