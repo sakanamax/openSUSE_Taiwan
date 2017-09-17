@@ -1,6 +1,6 @@
-# openSUSE_Taiwan
+﻿# openSUSE_Taiwan
 
-Facebook 分絲頁: https://www.facebook.com/groups/opensuse.zh/
+Facebook 粉絲頁: https://www.facebook.com/groups/opensuse.tw/
 
 Flickr 照片群組: https://www.flickr.com/groups/opensusetaiwan/
 
