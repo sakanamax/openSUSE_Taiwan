@@ -3,6 +3,9 @@
 
 ---------------------------
 
+1月份 Next Cloud and openSUSE in RPi3 workshop 101 - 台北
+* 相關資料於 20180121/
+
 
 ## 2017 年
 
