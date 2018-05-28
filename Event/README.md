@@ -3,6 +3,11 @@
 
 ---------------------------
 
+5月份 Ansible 自動化組態工具 workshop with openSUSE 101 - 台北
+* 相關資料於 20180527/
+
+---------------------------
+
 1月份 Next Cloud and openSUSE in RPi3 workshop 101 - 台北
 * 相關資料於 20180121/
 
